@@ -6,6 +6,7 @@ tag:
 - web
 - programming
 category: blog
+author: justinmaslin
 ---
 
 Most projects start with wanting to know something: how many dinosaurs would be necessary to re-take over the world, could cats become world-famous scientists, etc. In my case, I just wanted to know what famous people were born on a particular day of the year. Google does a great job with their [doodles], but they are very selective with who gets one. You probably think this is a non-issue — there are tons of sites that have this information, right? And you would be correct, except for one problem: they look awful. 

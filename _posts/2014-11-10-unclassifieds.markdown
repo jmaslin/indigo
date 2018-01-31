@@ -5,6 +5,7 @@ date:   2014-11-10 22:00:00
 tag:
 - ideas
 category: blog
+author: justinmaslin
 ---
 
 ## Why does everything need a specific category?

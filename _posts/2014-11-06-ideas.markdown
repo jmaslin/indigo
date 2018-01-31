@@ -5,6 +5,7 @@ date:   2014-11-06 17:00:00
 tag:
 - ideas
 category: blog
+author: justinmaslin
 ---
 
 # Everyone has ideas.

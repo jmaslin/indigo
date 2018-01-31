@@ -6,6 +6,7 @@ tag:
 - life
 - programming
 category: blog
+author: justinmaslin
 ---
 
 ## [#Hack4Humanity](twitter)

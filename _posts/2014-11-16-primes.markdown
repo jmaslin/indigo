@@ -2,9 +2,10 @@
 layout: post
 title: "Primes"
 date:   2014-11-16 18:00:00
-tag: 
+tag:
 - programming
 category: blog
+author: justinmaslin
 ---
 
 # Prime numbers.

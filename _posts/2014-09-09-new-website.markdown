@@ -5,6 +5,7 @@ date:   2014-09-08 18:00:00
 tag:
 - meta
 category: blog
+author: justinmaslin
 ---
 
 # Hello, internet.
