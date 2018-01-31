@@ -9,9 +9,9 @@ category: blog
 author: justinmaslin
 ---
 
-## [#Hack4Humanity](twitter)
+## [#Hack4Humanity][twitter]
 
-This was the hashtag used by close to 100 student hackers, Googlers, and guest speakers at Google NYC's recent [Hack4Humanity](h4hsite) hackathon! From Friday night to early Sunday morning, we coded and brainstormed with intermittent breaks for talks, food, coffee, and sometimes even sleeping.
+This was the hashtag used by close to 100 student hackers, Googlers, and guest speakers at Google NYC's recent [Hack4Humanity][h4hsite] hackathon! From Friday night to early Sunday morning, we coded and brainstormed with intermittent breaks for talks, food, coffee, and sometimes even sleeping.
 
 ![The Google Logo](/assets/images/blog/google-nyc.jpg)
 
@@ -19,7 +19,7 @@ This was my first official hackathon, so I had no idea what to expect. On top of
 
 Upon arriving, and after being given an unhealthily amount of Google swag, we found our table and listened to some guest talks. They described real-life problems they have encountered and empowered us to find a solution. This hackathon was not about making something cool for yourself, or technically challenging; it was about making something useful and even life-changing to some part of the world.
 
-Baris Yuksel ([@baris_wonders](baristwitter)), a tech lead at Google and one of the hackthon's organizers, described it best by saying our goal was not to create a "scheduling app" or one of the other dozen ideas that people always try. "How many people in the world do you think would benefit from a website that enables you to double major?" he asked us today, right after complimenting every group on a job well done. The answer is not too many.
+Baris Yuksel ([@baris_wonders][baristwitter]), a tech lead at Google and one of the hackthon's organizers, described it best by saying our goal was not to create a "scheduling app" or one of the other dozen ideas that people always try. "How many people in the world do you think would benefit from a website that enables you to double major?" he asked us today, right after complimenting every group on a job well done. The answer is not too many.
 
 Everyone demoed a practical app today that could easily improve the quality of life of some people and possibly safe others.
 
