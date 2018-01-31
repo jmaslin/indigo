@@ -22,4 +22,4 @@ All that matters is that you are here now! Here are some fun facts about me:
 
 If these facts were not fun enough for you, feel free to get in touch and let me know! I am always looking for ways to become more fun.
 
-<small>*Website may not look good.</small>
+<small>*Website not guaranteed to look good.</small>
