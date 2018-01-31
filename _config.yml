@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://justinmaslin.com/JustinMaslin.pdf
 
-url: http://maslin.github.io
+url: https://maslin.netlify.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
