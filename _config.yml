@@ -36,7 +36,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: mytwitter
+twitter: justinmaslin
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -59,6 +59,7 @@ authors:
         bio: Maybe likes avocados a little too much
         external-image: false
         picture: assets/images/profile.jpg
+        twitter: justinmaslin
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
