@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.url }}/{{ site.picture_fullsize }})
 
 <div style="text-align: center;">
 	<h2>Who is this guy, anyway?</h2>

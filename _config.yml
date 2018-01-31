@@ -9,6 +9,7 @@ description: A blog about my technology projects
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
+picture_fullsize: assets/images/profile_fullsize.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
