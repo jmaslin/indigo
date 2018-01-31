@@ -95,7 +95,7 @@ I learned to crawl. This project may not change the world, but it was an amazing
 
 Thank you for taking the time to follow the journey of how I learned to crawl! I have learned a lot on this project, and there is still more to go. Next stop, maybe the Chrome Web Store. And after that is out-of-scope for this post.
 
-*You can check out the project [here](http://justinmaslin.com/birthday).*
+*You can check out the project [here](https://famousbirthday.netlify.com).*
 
 [doodles]: http://www.google.com/doodles/
 [Jonathan E. Magen]: https://medium.com/@yonkeltron
