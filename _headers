@@ -1,0 +1,3 @@
+/*
+  Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
