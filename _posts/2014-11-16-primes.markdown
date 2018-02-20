@@ -39,7 +39,7 @@ System.out.println(sumOfPrimes);
 
 This way would be fine if our upper limit was not two million. Running this code works, but it takes over 10 minutes to get the answer on my Acer Aspire S7-392 Ultrabook (a great computer, but it is not Watson).
 
-![XKCD 303 - Compiling](http://imgs.xkcd.com/comics/compiling.png "Comic by XKCD")
+![XKCD 303 - Compiling](https://imgs.xkcd.com/comics/compiling.png "Comic by XKCD")
 
 I am pretty sure Project Euler has a one minute compiling "rule" where you should get your results in under a minute, so this solution was obviously not acceptable.
 
