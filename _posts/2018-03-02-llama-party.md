@@ -12,7 +12,7 @@ author: justinmaslin
 
 **Llama or Alpaca?** This is the question people all over the world have been asking. But, like all projects, this one began with a serious question: how can you tell the difference between llamas and alpacas?
 
-_Just want to play the game? [Click here.](https://llama.party/?ref=justinmaslin)_
+_Just want to play the game? [Click here.](https://llama.party/?ref=justinmaslin-blog)_
 
 **The typical origin story.**
 
