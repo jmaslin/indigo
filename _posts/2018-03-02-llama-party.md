@@ -8,7 +8,7 @@ category: blog
 author: justinmaslin
 ---
 
-<img class="bigger-image" style="margin-top: 0; margin-bottom: 0;" src="/assets/images/blog/llama-or-alpaca-cover.png" />
+<img class="bigger-image" style="margin-top: 0; margin-bottom: 0;" src="/assets/images/blog/llama-or-alpaca-cover.png" alt="Screenshot of the site" />
 
 **Llama or Alpaca?** This is the question people all over the world have been asking. But, like all projects, this one began with a serious question: how can you tell the difference between llamas and alpacas?
 
