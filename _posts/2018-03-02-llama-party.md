@@ -55,10 +55,15 @@ At the end of the day, we are glad it is important enough to be shared with frie
 <a href="https://twitter.com/jkdncn/status/969271126126923776?ref_src=twsrc%5Etfw">March 1, 2018</a>
 </blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Please take a moment to participate. Llama or Alpaca? <a href="https://t.co/XZQDzOglwk">https://t.co/XZQDzOglwk</a></p>&mdash; Fabricio Teixeira (@fabriciot) <a href="https://twitter.com/fabriciot/status/969610574152785920?ref_src=twsrc%5Etfw">March 2, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="en" dir="ltr">Please take a moment to participate. Llama or Alpaca? <a href="https://t.co/XZQDzOglwk">https://t.co/XZQDzOglwk</a></p>&mdash; Fabricio Teixeira (@fabriciot) <a href="https://twitter.com/fabriciot/status/969610574152785920?ref_src=twsrc%5Etfw">March 2, 2018</a>
+</blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en">
+<p lang="nl" dir="ltr">Llama or Alpaca? Ik ken de verschillen nog steeds niet. En dan heb je ook nog de vicuña. Lijkt er ook al sprekend op. Lastig hoor. <a href="https://t.co/SxKaorcVCs">https://t.co/SxKaorcVCs</a> <a href="https://t.co/MHGXYjnKDL">pic.twitter.com/MHGXYjnKDL</a></p>&mdash; Patrick 🕶 (@patrickloonstra) <a href="https://twitter.com/patrickloonstra/status/969502837058269184?ref_src=twsrc%5Etfw">March 2, 2018</a>
+</blockquote>
 
 <div class="breaker"></div>
-
 
 <div class="side-by-side">
   <div class="toleft">
