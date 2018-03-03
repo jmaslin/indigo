@@ -29,7 +29,7 @@ Some statistics since launching a week ago:
 - Over 2,000 unique users from 75 countries.
 - An average of 1.84 sessions (games) per user, with each game taking 2 minutes.
 - An average score of 6.5 / 10.
-- Almost 200 upvotes on [ProductHunt](https://www.producthunt.com/posts/llama-or-alpaca)!
+- ~~Almost~~ Over 200 upvotes on [ProductHunt](https://www.producthunt.com/posts/llama-or-alpaca)!
 
 <div class="breaker"></div>
 
